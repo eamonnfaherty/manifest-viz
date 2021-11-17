@@ -1,6 +1,8 @@
 ## What is this?
 This reads a manifest.yaml file from the same dir and outputs a graph in graphviz format to std out
 
+Note that this manifest file is AFTER the merge has been completed with all of the add-ons. You can find this file in the "artifacts" bucket under the "BuiltApp" directories.
+
 ## How to use it
 
 ### Install
